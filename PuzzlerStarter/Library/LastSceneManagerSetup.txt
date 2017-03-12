@@ -1,4 +1,3 @@
-sceneSetups:
-- path: Assets/mainScene.unity
-  isLoaded: 1
-  isActive: 1
+version https://git-lfs.github.com/spec/v1
+oid sha256:7934714adf2f162b3d44a0de965f31e39e3c348193781365afc67fda316676ce
+size 72
